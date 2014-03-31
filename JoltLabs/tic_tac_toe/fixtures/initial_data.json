@@ -1,0 +1,92 @@
+// [
+//   {
+//     "model": "tic_tac_toe.player",
+//     "pk": 1,
+//     "fields": {
+//       "player": "Player 1",
+//       "letter": "X",
+//       "value": 1
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.player",
+//     "pk": 2,
+//     "fields": {
+//       "player": "Player 2",
+//       "letter": "O",
+//       "value": -1
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 1,
+//     "fields": {
+//       "row": 1,
+//       "col": 1
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 2,
+//     "fields": {
+//       "row": 1,
+//       "col": 2
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 3,
+//     "fields": {
+//       "row": 1,
+//       "col": 3
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 4,
+//     "fields": {
+//       "row": 2,
+//       "col": 1
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 5,
+//     "fields": {
+//       "row": 2,
+//       "col": 2
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 6,
+//     "fields": {
+//       "row": 2,
+//       "col": 3
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 7,
+//     "fields": {
+//       "row": 3,
+//       "col": 1
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 8,
+//     "fields": {
+//       "row": 3,
+//       "col": 2
+//     }
+//   },
+//   {
+//     "model": "tic_tac_toe.board",
+//     "pk": 9,
+//     "fields": {
+//       "row": 3,
+//       "col": 3
+//     }
+//   }
+// ]
